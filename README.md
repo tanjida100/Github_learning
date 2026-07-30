@@ -82,4 +82,31 @@ http://www.studywithme.com
  ### link with markdown syntax
 
  [title](link)
+
  [mychannel](http://www.studywithme.com)
+
+ [mychannel](websitelink)
+
+[facebook](facebooklink)
+ <!-- all link is here -->
+ [websitelink]: (http://www.studywithme.com)
+ [facebooklink]:(http://www.facebook.com)
+<br/>
+
+### image syntax
+
+![alt text] (image)
+
+![Profile](./images/MSI_MPG.jpg)
+<br/>
+
+### emoji add:just copy paste
+
+😊
+<br/>
+
+### Table Syntax
+
+| Name | Email |
+| --------- | ---------|
+|Tanjida Baraka | tanjida@gmail.com |
